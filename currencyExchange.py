@@ -1,6 +1,4 @@
 import math
-from hmac import new
-
 
 def exchange_money(budget, exchange_rate):
     return budget / exchange_rate
